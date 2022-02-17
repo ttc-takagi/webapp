@@ -7,6 +7,6 @@
 <title>webapp</title>
 </head>
 <body>
-Hello, Java EE
+Hello, CI
 </body>
 </html>
