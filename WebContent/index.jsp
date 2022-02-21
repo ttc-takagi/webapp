@@ -7,6 +7,6 @@
 <title>webapp</title>
 </head>
 <body>
-Hello, CI
+こんにちは
 </body>
 </html>
